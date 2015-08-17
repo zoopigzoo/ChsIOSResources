@@ -6,3 +6,4 @@ some Chinese ios dev natural language resources
 
 
 # To-do list
+*   add more tasks
